@@ -9,5 +9,6 @@ function checkStringOddOrEven(str) {
     }
 }
 
+console.log(checkNumber); // [Function: checkOddOrEven] , 메소드도 변수에 담기 가능
 console.log(checkNumber(10));
 console.log(checkStringOddOrEven('hello'));
